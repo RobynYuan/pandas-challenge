@@ -1,0 +1,8 @@
+There are three observations:
+
+First, Male player is the majority (84%) of player and made the most purchase for this game compared to the female players.
+
+Second, 20-24 age group has the most players and made the most purchase for this game.
+
+Third, the item Final Critic with Item ID 92 is purchased more often than the others followed by Item 178 ,145, 132 and 108
+
